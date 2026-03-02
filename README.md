@@ -40,7 +40,7 @@ This project helped me understand how to structure webpages using HTML, style th
 ## Author
 
 Vaibhav Sharma  
-BCA (Data Science) Graduate  
+MCA (Data Science)  
 Aspiring Web Developer
 
 ## Future Improvements
